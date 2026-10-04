@@ -1,11 +1,11 @@
 # AI-Powered_Data-AnalystAgent
 An AI-powered data analysis application that automates data cleaning, exploration, visualization, and insight generation from uploaded datasets.
 
-🤖 AI-Powered Data Analyst Agent
+# 🤖 AI-Powered Data Analyst Agent
 
 An AI-powered data analysis application designed to simplify the process of analyzing datasets. The system allows users to upload a dataset and automatically performs data understanding, cleaning, exploratory data analysis, visualization, and generates meaningful insights.
 
-#📌 Project Overview
+## 📌 Project Overview
 
 Traditional data analysis requires users to manually inspect datasets, identify missing values, clean the data, create visualizations, and interpret the results.
 
@@ -13,53 +13,53 @@ The AI-Powered Data Analyst Agent aims to reduce this manual effort by providing
 
 The user simply uploads a dataset, and the system analyzes the data and presents useful information in an easy-to-understand format.
 
-#⚙️ How It Works
+## ⚙️ How It Works
 
 The system follows these main steps:
 
-1. Upload Dataset
+# 1. Upload Dataset
    
    - The user uploads a CSV or Excel dataset.
 
-2. Dataset Understanding
+# 2. Dataset Understanding
    
    - The system identifies the number of rows and columns.
    - Displays column names and data types.
    - Provides basic statistical information.
 
-3. Data Quality Analysis
+# 3. Data Quality Analysis
    
    - Detects missing values.
    - Identifies duplicate records.
    - Checks for inconsistent or unusual data.
 
-4. Data Cleaning
+# 4. Data Cleaning
    
    - Handles missing values.
    - Removes duplicate records when required.
    - Prepares the dataset for further analysis.
 
-5. Exploratory Data Analysis
+# 5. Exploratory Data Analysis
    
    - Calculates important statistics.
    - Identifies patterns and relationships within the data.
 
-6. Data Visualization
+# 6. Data Visualization
    
    - Generates suitable charts and graphs.
    - Helps users understand trends and patterns visually.
 
-7. AI-Powered Insights
+# 7. AI-Powered Insights
    
    - Provides understandable explanations of the analysis.
    - Highlights important findings and patterns from the dataset.
 
-8. Final Analysis
+# 8. Final Analysis
    
    - Presents the results in a simple dashboard.
    - Helps users make data-driven decisions.
 
-#🏗️ System Workflow
+## 🏗️ System Workflow
 
 User
   ↓
@@ -79,7 +79,7 @@ AI-Powered Insights
   ↓
 Analysis Report
 
-#🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python – Main programming language
 - Pandas – Data processing and analysis
@@ -88,7 +88,7 @@ Analysis Report
 - Streamlit – User interface
 - Python-based AI/Data Analysis Components – Automated analysis and insight generation
 
-#✨ Key Features
+## ✨ Key Features
 
 - 📂 CSV and Excel dataset upload
 - 🔍 Automatic dataset inspection
@@ -99,7 +99,7 @@ Analysis Report
 - 💡 Insight generation
 - 🖥️ Simple and user-friendly interface
 
-#🎯 Objectives
+## 🎯 Objectives
 
 - Automate common data analysis tasks.
 - Reduce manual effort required for dataset analysis.
@@ -107,7 +107,7 @@ Analysis Report
 - Provide meaningful insights from datasets.
 - Present complex analysis in a simple and understandable way.
 
-#👥 Target Users
+## 👥 Target Users
 
 The application can be useful for:
 
@@ -118,7 +118,7 @@ The application can be useful for:
 - Beginners learning data analysis
 - Anyone who wants to quickly understand a dataset
 
-#🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Support for more file formats
 - Advanced predictive analytics
@@ -129,15 +129,15 @@ The application can be useful for:
 - Interactive dashboards
 - Time-series forecasting
 
-#📚 Project Type
+## 📚 Project Type
 
 College Mini Project
 
 Domain: Data Science / Artificial Intelligence
 
-#👩‍💻 Developed By
+## 👩‍💻 Developed By
 
-Bhanushree G
+# Bhanushree G
 
 CSE – Data Science
 Nagarjuna College of Engineering and Technology (NCET)
