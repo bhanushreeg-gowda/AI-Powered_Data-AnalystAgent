@@ -1,7 +1,4 @@
-# AI-Powered_Data-AnalystAgent
-An AI-powered data analysis application that automates data cleaning, exploration, visualization, and insight generation from uploaded datasets.
-
-##  🤖 AI-Powered Data Analyst Agent
+# 🤖 AI-Powered Data Analyst Agent
 
 An AI-powered data analysis application designed to simplify the process of analyzing datasets. The system allows users to upload a dataset and automatically performs data understanding, cleaning, exploratory data analysis, visualization, and generates meaningful insights.
 
