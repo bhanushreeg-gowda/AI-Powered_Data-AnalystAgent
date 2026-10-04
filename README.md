@@ -14,44 +14,44 @@ The user simply uploads a dataset, and the system analyzes the data and presents
 
 The system follows these main steps:
 
-# 1. Upload Dataset
+##  1. Upload Dataset
    
    - The user uploads a CSV or Excel dataset.
 
-# 2. Dataset Understanding
+##  2. Dataset Understanding
    
    - The system identifies the number of rows and columns.
    - Displays column names and data types.
    - Provides basic statistical information.
 
-# 3. Data Quality Analysis
+##  3. Data Quality Analysis
    
    - Detects missing values.
    - Identifies duplicate records.
    - Checks for inconsistent or unusual data.
 
-# 4. Data Cleaning
+##  4. Data Cleaning
    
    - Handles missing values.
    - Removes duplicate records when required.
    - Prepares the dataset for further analysis.
 
-# 5. Exploratory Data Analysis
+##  5. Exploratory Data Analysis
    
    - Calculates important statistics.
    - Identifies patterns and relationships within the data.
 
-# 6. Data Visualization
+##  6. Data Visualization
    
    - Generates suitable charts and graphs.
    - Helps users understand trends and patterns visually.
 
-# 7. AI-Powered Insights
+##  7. AI-Powered Insights
    
    - Provides understandable explanations of the analysis.
    - Highlights important findings and patterns from the dataset.
 
-# 8. Final Analysis
+##  8. Final Analysis
    
    - Presents the results in a simple dashboard.
    - Helps users make data-driven decisions.
@@ -134,7 +134,7 @@ Domain: Data Science / Artificial Intelligence
 
 ## 👩‍💻 Developed By
 
-# Bhanushree G
+##  Bhanushree G
 
 CSE – Data Science
 Nagarjuna College of Engineering and Technology (NCET)
