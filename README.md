@@ -5,7 +5,7 @@ An AI-powered data analysis application that automates data cleaning, exploratio
 
 An AI-powered data analysis application designed to simplify the process of analyzing datasets. The system allows users to upload a dataset and automatically performs data understanding, cleaning, exploratory data analysis, visualization, and generates meaningful insights.
 
-📌 Project Overview
+#📌 Project Overview
 
 Traditional data analysis requires users to manually inspect datasets, identify missing values, clean the data, create visualizations, and interpret the results.
 
@@ -13,7 +13,7 @@ The AI-Powered Data Analyst Agent aims to reduce this manual effort by providing
 
 The user simply uploads a dataset, and the system analyzes the data and presents useful information in an easy-to-understand format.
 
-⚙️ How It Works
+#⚙️ How It Works
 
 The system follows these main steps:
 
@@ -59,7 +59,7 @@ The system follows these main steps:
    - Presents the results in a simple dashboard.
    - Helps users make data-driven decisions.
 
-🏗️ System Workflow
+#🏗️ System Workflow
 
 User
   ↓
@@ -79,7 +79,7 @@ AI-Powered Insights
   ↓
 Analysis Report
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 - Python – Main programming language
 - Pandas – Data processing and analysis
@@ -88,7 +88,7 @@ Analysis Report
 - Streamlit – User interface
 - Python-based AI/Data Analysis Components – Automated analysis and insight generation
 
-✨ Key Features
+#✨ Key Features
 
 - 📂 CSV and Excel dataset upload
 - 🔍 Automatic dataset inspection
@@ -99,7 +99,7 @@ Analysis Report
 - 💡 Insight generation
 - 🖥️ Simple and user-friendly interface
 
-🎯 Objectives
+#🎯 Objectives
 
 - Automate common data analysis tasks.
 - Reduce manual effort required for dataset analysis.
@@ -107,7 +107,7 @@ Analysis Report
 - Provide meaningful insights from datasets.
 - Present complex analysis in a simple and understandable way.
 
-👥 Target Users
+#👥 Target Users
 
 The application can be useful for:
 
@@ -118,7 +118,7 @@ The application can be useful for:
 - Beginners learning data analysis
 - Anyone who wants to quickly understand a dataset
 
-🚀 Future Enhancements
+#🚀 Future Enhancements
 
 - Support for more file formats
 - Advanced predictive analytics
@@ -129,13 +129,13 @@ The application can be useful for:
 - Interactive dashboards
 - Time-series forecasting
 
-📚 Project Type
+#📚 Project Type
 
 College Mini Project
 
 Domain: Data Science / Artificial Intelligence
 
-👩‍💻 Developed By
+#👩‍💻 Developed By
 
 Bhanushree G
 
